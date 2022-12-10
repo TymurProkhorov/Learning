@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4445be30-5bb0-425f-8e5c-21c9d67d8baf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotationsLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotationsLearning/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotationsLearning/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrayListLearning/ArrayListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrayListLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comparatorLearning/ComparablePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comparatorLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comparatorLearning/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comparatorLearning/StringLengthComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/equalsHashCodeLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hashMapLearning/LinkedHMAndTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hashMapLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdaLearning/LambdaLearningAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdaLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedHMAndTreeMapLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedListLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedListLearning/MySimpleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/queueLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reflectionAPILearning/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reflectionAPILearning/ClassesInJavaReflectAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reflectionAPILearning/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reflectionAPILearning/TestReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/setLearning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stackLearning/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IifkBlORj1cvuy9ijqBCxKvdk3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Learning/src/main/java/lambdaLearning"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Learning\src\main\java\lambdaLearning" />
+      <recent name="C:\Users\User\IdeaProjects\Learning\src\main\java\arrayListLearning" />
+      <recent name="C:\Users\User\IdeaProjects\Learning\src\main\java\linkedListLearning" />
+      <recent name="C:\Users\User\IdeaProjects\Learning\src\main\java\equalsHashCodeLearning" />
+      <recent name="C:\Users\User\IdeaProjects\Learning\src\main\java\hashMapLearning" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="linkedHMAndTreeMapLearning" />
+      <recent name="setLearning" />
+      <recent name="stackLearning" />
+      <recent name="reflectionAPILearning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.hashMapLearning.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflectionAPILearning.TestReflection" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflectionAPILearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hashMapLearning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMapLearning.Main" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashMapLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="queueLearning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queueLearning.Main" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queueLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.hashMapLearning.Main" />
+        <item itemvalue="Application.queueLearning.Main" />
+        <item itemvalue="Application.TestReflection" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4445be30-5bb0-425f-8e5c-21c9d67d8baf" name="Changes" comment="" />
+      <created>1670669481911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670669481911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
