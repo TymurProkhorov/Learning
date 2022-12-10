@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4445be30-5bb0-425f-8e5c-21c9d67d8baf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotationsLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotationsLearning/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotationsLearning/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayListLearning/ArrayListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayListLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparatorLearning/ComparablePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparatorLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparatorLearning/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparatorLearning/StringLengthComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/equalsHashCodeLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashMapLearning/LinkedHMAndTreeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashMapLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdaLearning/LambdaLearningAdvanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdaLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedHMAndTreeMapLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedListLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedListLearning/MySimpleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/queueLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflectionAPILearning/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflectionAPILearning/ClassesInJavaReflectAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflectionAPILearning/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reflectionAPILearning/TestReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/setLearning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stackLearning/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
