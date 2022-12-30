@@ -60,8 +60,8 @@ public class Main {
         addElements(list);
         addElements(set);
 
-        System.out.println("list: " + list);
-        System.out.println("set: " + set);  // TreeSet сортирует сам, к нему не нужно еще раз вызывать sort(),
+        System.out.println("list before sorting: " + list);
+        System.out.println("set before sorting: " + set);  // TreeSet сортирует сам, к нему не нужно еще раз вызывать sort(),
         // ему главное иметь метод compareTo в классе, объекты которого он хочет сортировать.
         Collections.sort(list);
 

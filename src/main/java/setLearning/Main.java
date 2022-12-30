@@ -7,19 +7,19 @@ import java.util.TreeSet;
 
 public class Main {
     public static void main(String[] args) {
-        Set<String> hashSet = new HashSet<>();
-        Set<String> linkedHashSet = new LinkedHashSet<>();
-        Set<String> treeSet = new TreeSet<>();
-        hashSet.add("Adam");
-        hashSet.add("Clara");
-        hashSet.add("Derek");
-        hashSet.add("Johnny");
-        hashSet.add("Fuzzywuzzy");
-        hashSet.add("Bobby");
-        hashSet.add("Derek");
-        hashSet.add("Derek");
-        for (String s: hashSet) {
-            System.out.println(s); // Дубликаты тупо игнорятся
+        Set<String> hashSet = new HashSet<>(); // добавляет эл-ты беспорядочно.
+        Set<String> linkedHashSet = new LinkedHashSet<>(); // добавляет в том порядке, в кот. я добавлял.
+        Set<String> treeSet = new TreeSet<>(); // добавляет, сортируя в естественном порядке.
+        treeSet.add("Adam");
+        treeSet.add("Clara");
+        treeSet.add("Derek");
+        treeSet.add("Johnny");
+        treeSet.add("Fuzzywuzzy");
+        treeSet.add("Bobby");
+        treeSet.add("Derek");
+        treeSet.add("Derek");
+        for (String s: treeSet) {
+            System.out.println(s); // Дубликаты тупо игнорятся. Также Set работает с null!
         }
         System.out.println("-----");
         System.out.println(hashSet.contains("Adam")); // Работает оч быстро благодаря хешированию.
@@ -34,8 +34,8 @@ public class Main {
         set1.add(5);
         set1.add(6);
         set1.add(7);
-        Set<Integer> set2 = new HashSet<>();
 
+        Set<Integer> set2 = new HashSet<>();
         set2.add(4);
         set2.add(5);
         set2.add(6);

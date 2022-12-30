@@ -10,8 +10,8 @@ public class Main {
             list.add(i);
         }
 
-        ArrayListPractice.getOddNumbers(list);
-        ArrayListPractice.printAllElementsFromArrayList();
-
+//        ArrayListPractice.getOddNumbers(list);
+//        ArrayListPractice.printAllElementsFromArrayList();
+        ArrayListPractice.methods();
     }
 }

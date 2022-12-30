@@ -29,7 +29,8 @@ public class Main {
         System.out.println(queue.offer(person1));
         System.out.println(queue.offer(person3));
         System.out.println(queue.offer(person4));
-        System.out.println(queue.offer(person1));
+        System.out.println(queue.offer(person1)); // не добавится, так как queue full. Но с дубликатами очереди работают.
+
         System.out.println();
 
         queue.poll(); // выкинул первый эл-т, так как он вошел первым.
