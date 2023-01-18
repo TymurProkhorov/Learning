@@ -61,12 +61,14 @@ public class Main {
         addElements(set);
 
         System.out.println("list before sorting: " + list);
-        System.out.println("set before sorting: " + set);  // TreeSet сортирует сам, к нему не нужно еще раз вызывать sort(),
-        // ему главное иметь метод compareTo в классе, объекты которого он хочет сортировать.
+        System.out.println("set: " + set);  /* TreeSet сортирует сам, к нему не нужно еще раз вызывать sort(),
+         ему главное иметь метод compareTo в классе, объекты которого он хочет сортировать.
+         И так как Фатима.ленгс = 6 и Елвира.ленгс = 6, Фатима не выведется, так как она равна Елвире, а трисет
+         не допускает повторений.
+         */
         Collections.sort(list);
 
         System.out.println("list after sorting: " + list);
-        System.out.println("set after sorting: " + set);
 
     }
 

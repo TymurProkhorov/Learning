@@ -6,8 +6,8 @@ public class FileWriterAndFileReader {
     public static void main(String[] args) throws IOException {
          writeToFile();
         // writeToFileSecondOption();
+        // writeToFileWithTWR();
         // readFromFile();
-     //   writeToFileWithTWR();
     }
 
     public static void writeToFile() throws IOException {
@@ -39,7 +39,8 @@ public class FileWriterAndFileReader {
                 + "Отдохни немного —\n"
                 + "Ты большой мешок принес\n"
                 + "И устал с дороги.\n"
-                + "\n" + "Мы тебя повеселим,\n"
+                + "\n"
+                + "Мы тебя повеселим,\n"
                 + "Спать, конечно, не дадим,\n"
                 + "И станцуем для тебя.\n"
                 + "С Новым Годом всех! Ура!\n";
@@ -56,23 +57,6 @@ public class FileWriterAndFileReader {
             e.printStackTrace();
         } finally {
             writer.close();
-        }
-    }
-
-    public static void readFromFile() throws IOException {
-        FileReader reader = null;
-        try {
-            reader = new FileReader("Test2"); // можно также указать абсолютный путь
-            int character;
-            while ((character = reader.read()) != -1) {
-                /* read() считывает из файла и возвращает int. Если считывать больше нечего - возвр. -1,
-                поэтому, while есть что считывать...*/
-                System.out.print((char) character); // Нет смысла считывать инт, потому кастуем до чар.
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        } finally {
-            reader.close();
         }
     }
 
@@ -94,6 +78,22 @@ public class FileWriterAndFileReader {
             Каждый ресурс, прописанный в параметре try, должен имплементить AutoCloseable!
              */
             writer.write(a);
+        }
+    }
+    public static void readFromFile() throws IOException {
+        FileReader reader = null;
+        try {
+            reader = new FileReader("Test2"); // можно также указать абсолютный путь
+            int character;
+            while ((character = reader.read()) != -1) {
+                /* read() считывает из файла и возвращает int. Если считывать больше нечего - возвр. -1,
+                поэтому, while есть что считывать...*/
+                System.out.print((char) character); // Нет смысла считывать инт, потому кастуем до чар.
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            reader.close();
         }
     }
 }
